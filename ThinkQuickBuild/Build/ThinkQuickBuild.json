@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Think Quick",
+"productVersion": "0.1",
+"dataUrl": "ThinkQuickBuild.data.unityweb",
+"wasmCodeUrl": "ThinkQuickBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "ThinkQuickBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.19f1"
+}
